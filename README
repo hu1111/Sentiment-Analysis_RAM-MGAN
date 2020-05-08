@@ -1,1 +1,6 @@
 UPDATE
+这是一个pytorch复现RAM和MGAN两种情感分析模型的代码。
+其中RAM来自于《Recuttent Attention Network on Memory for Aspect sentiment analysis》
+MGAN来自于《Multi-grained Network for Aspect-Level Sentiment Classification》
+由于本人也是初学者，代码写的还很粗糙和稚嫩。仅提供出来，供大家学习参考。
+data_util是数据处理部分，ram和mgan是模型部分，main是模型的训练和预测部分。
